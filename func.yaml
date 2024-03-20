@@ -1,0 +1,5 @@
+specVersion: 0.35.0
+name: func-invoke-confusion
+runtime: go
+created: 2024-03-20T16:42:36.753255823-04:00
+invoke: cloudevent
